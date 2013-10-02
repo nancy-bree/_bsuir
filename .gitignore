@@ -1,1 +1,7 @@
-Debug/
+*.suo
+*Debug*
+*.o
+app
+*a.out
+ipch
+*.pdb
