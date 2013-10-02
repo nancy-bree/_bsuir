@@ -1,1 +1,0 @@
-System Programming labs. The 5th semester.
